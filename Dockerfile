@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:latest
+FROM alpine:latest
 MAINTAINER Johannes Mitlmeier <dev.jojomi@yahoo.com>
 
 RUN apk add --update \
